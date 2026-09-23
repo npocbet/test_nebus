@@ -1,0 +1,11 @@
+.git
+.idea
+.agents
+.codex
+venv
+__pycache__
+*.py[cod]
+*.log
+.env
+postgres_data
+rabbitmq_data
